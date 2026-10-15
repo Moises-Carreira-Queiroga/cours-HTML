@@ -4,9 +4,12 @@ body {
 }
 header {
     background-color: yellow;
-    div {
-        color: pink;
-    }
+
+}
+
+div {
+    background-color: pink;
+
 }
 
 main {
