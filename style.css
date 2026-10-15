@@ -1,4 +1,19 @@
 body {
-    color: rgb(128, 47, 0);
+    background-color: orange;
 
 }
+header {
+    background-color: yellow
+
+}
+
+div{
+    background-color: pink;
+
+}
+
+button{
+    background-color: black;
+
+}
+
