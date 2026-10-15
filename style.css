@@ -3,26 +3,23 @@ body {
 
 }
 header {
-    background-color: yellow
-
+    background-color: yellow;
+    div {
+        color: pink;
+    }
 }
 
-div{
-    background-color: pink;
-
-}
-
-main{
+main {
     background-color: green;
 
 }
 
-button{
+button {
     background-color: black;
 
 }
 
-footer{
-    background-color: purple;
+footer {
+    background-color: darkblue;
 
 }
